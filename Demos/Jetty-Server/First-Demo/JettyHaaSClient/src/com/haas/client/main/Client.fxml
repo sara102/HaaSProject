@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<fx:root id="AnchorPane" minHeight="400" minWidth="600"
+	prefHeight="400" prefWidth="600" type="javafx.scene.layout.AnchorPane"
+	xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+	<children>
+		<Button fx:id="bGetUserMedicines" layoutX="241.0" layoutY="188.0"
+			mnemonicParsing="false" text="Get User Medicines" />
+		<TextField fx:id="etUserEmail" layoutX="173.0" layoutY="103.0"
+			prefHeight="25.0" prefWidth="255.0" promptText="Enter User Email"
+			AnchorPane.leftAnchor="173.0" AnchorPane.rightAnchor="172.0" />
+	</children>
+</fx:root>
