@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HaaS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="remember_me_check_box">Remember Me</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+
+    <string name="prompt_confirm_password">Confirm Password</string>
+
+    <string name="prompt_mobile">Mobile Number</string>
+    <string name="register_button">Register</string>
+
+    <string name="forget_your_password">Forget your password ?</string>
+</resources>
