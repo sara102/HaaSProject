@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root id="AnchorPane" minHeight="522.0" minWidth="535.0" prefHeight="522.0" prefWidth="535.0" type="javafx.scene.layout.AnchorPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+
+	<children>
+		<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="649.0" minWidth="650.0" prefHeight="649.0" prefWidth="650.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+			<children>
+				<Button fx:id="bMainToggleServer" layoutX="247.0" layoutY="249.0" mnemonicParsing="false" text="Start" AnchorPane.leftAnchor="247.0" AnchorPane.rightAnchor="247.0" />
+            <Text layoutX="156.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Toggle Server Status " AnchorPane.leftAnchor="156.0" AnchorPane.rightAnchor="155.37939453125">
+               <font>
+                  <Font name="Bauhaus 93" size="25.0" />
+               </font>
+            </Text>
+			</children>
+			<effect>
+				<Glow />
+			</effect>
+		</AnchorPane>
+	</children>
+</fx:root>
